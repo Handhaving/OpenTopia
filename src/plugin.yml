@@ -1,0 +1,5 @@
+name: OpenTopia
+description: First opensource Minetopia plugin!
+authors: [RammelKast, MrWouter]
+main: com.rammelkast.opentopia.Main
+version: 1.0
