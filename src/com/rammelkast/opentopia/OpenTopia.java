@@ -5,7 +5,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 public class OpenTopia extends JavaPlugin {
 
 	/**
-	 * Called when the plugin is enabled.
+	 * Called when the plugin is enabled. groetjes nog
 	 */
 	@Override
 	public void onEnable() { 
